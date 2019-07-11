@@ -1,0 +1,23 @@
+body {
+	border-style: solid;
+	border-color: #008c99;
+	border-radius: 4px;
+	width: 700px;
+	padding: 15px;
+	border-width: 5px;
+	border-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	background: #dae5f7;
+}
+
+#headline {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-weight: normal;
+	font-size: 19px;
+	text-align: center;
+    text-shadow:
+       3px 3px 0 #d5dde8,
+       1px 1px 0 #d5dde8;
+}

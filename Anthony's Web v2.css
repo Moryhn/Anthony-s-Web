@@ -1,0 +1,151 @@
+body {
+	border-style: solid;
+	border-color: #008c99;
+	border-radius: 4px;
+	width: 700px;
+	padding: 15px;
+	border-width: 5px;
+	border-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	background: #dae5f7;
+}
+
+#headline {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-weight: normal;
+	font-size: 19px;
+	text-align: center;
+    text-shadow:
+       3px 3px 0 #d5dde8,
+       1px 1px 0 #d5dde8;
+}
+
+p.about {
+	color: #008e9c;
+	font-family: BIZ UDGothic;
+	font-weight: normal;
+	font-size: 25px;
+	text-align: center;
+	padding: 15px;
+	border-width: 5px;
+	border-color: #008e9c;
+	border-style: dashed;
+	width: 110px;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow:
+       3px 3px 0 #d5dde8,
+       1px 1px 0 #d5dde8;
+}
+
+p.description {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-size: 23px;
+	text-align: center;
+	border-radius: 25px;
+    background: rgb(189,207,232);
+	background: linear-gradient(90deg, rgba(189,207,232,1) 10%, rgba(159,185,213,1) 100%);
+  	padding: 20px; 
+  	width: 550px;
+  	height: 135px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+p.takealook {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-size: 27px;
+	font-weight: bold; 
+	text-align: left;
+	margin-left: 30px;
+	text-shadow:
+       3px 3px 0 #d5dde8,
+       1px 1px 0 #d5dde8;     
+}
+
+a.sinitar {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-weight: bold; 
+}
+
+#arrow {
+	font-size: 275%;
+	font-family: BIZ UDGothic;
+	margin-left: 60px;
+}
+
+#boxgraphics {
+	text-align: center;
+	border-radius: 25px;
+    background: rgb(189,207,232);
+	background: linear-gradient(90deg, rgba(189,207,232,1) 10%, rgba(159,185,213,1) 100%);
+  	padding: 20px; 
+  	width: 350px;
+  	height: 92px;
+  	margin-left: 250px;
+  	margin-top: -130px;
+
+}
+
+#graphics {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-weight: normal;
+	font-size: 32px;
+
+}
+
+#graphicsdescription {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+}
+
+#boxgameplay {
+	text-align: center;
+	border-radius: 25px;
+    background: rgb(189,207,232);
+	background: linear-gradient(90deg, rgba(189,207,232,1) 10%, rgba(159,185,213,1) 100%);
+  	padding: 20px; 
+  	width: 350px;
+  	height: 92px; 
+  	margin-left: 250px;
+  	margin-top: 0px;
+}
+
+#gameplay {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-weight: normal;
+	font-size: 32px;
+}
+
+#gameplaydescription {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+}
+
+footer {
+	color: #008c99;
+	font-family: BIZ UDGothic;
+	font-size: 18px;
+	font-weight: lighter;
+	font-style: italic;
+	text-align: left;
+	margin-left: 5px;
+	text-shadow:
+       3px 3px 0 #d5dde8,
+       1px 1px 0 #d5dde8; 
+}
